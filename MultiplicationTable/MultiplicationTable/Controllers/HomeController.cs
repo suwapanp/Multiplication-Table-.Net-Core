@@ -23,6 +23,10 @@ namespace MultiplicationTable.Controllers
             return View();
         }
 
+        public IActionResult Type2()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
